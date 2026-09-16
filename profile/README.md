@@ -1,8 +1,8 @@
 <h1 align="center">
   <a href="https://clusdr.io">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/logo-lockup-dark.svg">
-      <img src="assets/logo-lockup.svg" alt="clusdr" width="180" height="184">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/clusdr-lettermark-side-dark.svg">
+      <img src="assets/clusdr-lettermark-side.svg" alt="clusdr" width="360" height="119">
     </picture>
   </a>
 </h1>
