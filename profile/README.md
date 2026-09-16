@@ -46,10 +46,12 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/java-dark.svg">
-    <img src="assets/java.svg" alt="Java" width="72" height="81">
-  </picture>
+  <a href="https://github.com/clusdr/clusdr-java">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/java-dark.svg">
+      <img src="assets/java.svg" alt="Java" width="72" height="81">
+    </picture>
+  </a>
 </p>
 
 ## Repositories
@@ -60,6 +62,7 @@
 | [clusdr-python](https://github.com/clusdr/clusdr-python) | Python SDK for clusdr, a distributed coordination runtime. Talks to the local daemon for membership, presence, locks, leases, and events. |
 | [clusdr-rust](https://github.com/clusdr/clusdr-rust) | Rust SDK for clusdr, a distributed coordination runtime. Talks to the local daemon for membership, presence, locks, leases, and events. |
 | [clusdr-js](https://github.com/clusdr/clusdr-js) | TypeScript SDK for clusdr, a distributed coordination runtime. Talks to the local daemon for membership, presence, locks, leases, and events. |
+| [clusdr-java](https://github.com/clusdr/clusdr-java) | Java SDK for clusdr, a distributed coordination runtime. Talks to the local daemon for membership, presence, locks, leases, and events. |
 
 ## Install
 
