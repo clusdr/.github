@@ -32,10 +32,12 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/rust-dark.svg">
-    <img src="assets/rust.svg" alt="Rust" width="72" height="81">
-  </picture>
+  <a href="https://github.com/clusdr/clusdr-rust">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/rust-dark.svg">
+      <img src="assets/rust.svg" alt="Rust" width="72" height="81">
+    </picture>
+  </a>
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/typescript-dark.svg">
@@ -54,6 +56,7 @@
 |---|---|
 | [clusdr](https://github.com/clusdr/clusdr) | Distributed coordination runtime in Go. Provides cluster membership, presence, locks, leases, and events through a local daemon and SDK. |
 | [clusdr-python](https://github.com/clusdr/clusdr-python) | Python SDK for clusdr, a distributed coordination runtime. Talks to the local daemon for membership, presence, locks, leases, and events. |
+| [clusdr-rust](https://github.com/clusdr/clusdr-rust) | Rust SDK for clusdr, a distributed coordination runtime. Talks to the local daemon for membership, presence, locks, leases, and events. |
 
 ## Install
 
