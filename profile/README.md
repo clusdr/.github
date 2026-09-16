@@ -1,8 +1,52 @@
-# clusdr
+<h1 align="center">
+  <a href="https://clusdr.io">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/logo-lockup-dark.svg">
+      <img src="assets/logo-lockup.svg" alt="clusdr" width="180" height="184">
+    </picture>
+  </a>
+</h1>
 
-Distributed coordination runtime and language SDKs. Cluster membership, presence, locks, leases, and events.
+<p align="center">Distributed coordination runtime and language SDKs. Cluster membership, presence, locks, leases, and events.</p>
 
-[clusdr.io](https://clusdr.io) · [Install](https://clusdr.io/docs/guide/install) · [Docs](https://clusdr.io/docs/)
+<p align="center">
+  <a href="https://clusdr.io">clusdr.io</a>
+  ·
+  <a href="https://clusdr.io/docs/guide/install">Install</a>
+  ·
+  <a href="https://clusdr.io/docs/">Docs</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/clusdr/clusdr">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/go-dark.svg">
+      <img src="assets/go.svg" alt="Go" width="72" height="81">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/clusdr/clusdr-python">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/python-dark.svg">
+      <img src="assets/python.svg" alt="Python" width="72" height="81">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/rust-dark.svg">
+    <img src="assets/rust.svg" alt="Rust" width="72" height="81">
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/typescript-dark.svg">
+    <img src="assets/typescript.svg" alt="TypeScript" width="72" height="81">
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/java-dark.svg">
+    <img src="assets/java.svg" alt="Java" width="72" height="81">
+  </picture>
+</p>
 
 ## Repositories
 
