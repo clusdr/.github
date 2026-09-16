@@ -67,4 +67,5 @@ curl -fsSL https://clusdr.io/install.sh | sh
 ```bash
 go get github.com/durguto/clusdr/sdk
 pip install clusdr
+cargo add clusdr
 ```
