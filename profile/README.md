@@ -18,6 +18,29 @@
 </p>
 
 <p align="center">
+  <a href="https://clusdr.io/docs/guide/install">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/clusdr-cli-dark.svg">
+      <img src="assets/clusdr-cli.svg" alt="Linux" width="72" height="81">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://clusdr.io/packages">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/clusdr-container-dark.svg">
+      <img src="assets/clusdr-container.svg" alt="Container" width="72" height="81">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://clusdr.io/docs/guide/kubernetes">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/clusdr-k8s-dark.svg">
+      <img src="assets/clusdr-k8s.svg" alt="Kubernetes" width="72" height="81">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/clusdr/clusdr">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/go-dark.svg">
@@ -81,6 +104,6 @@ npm install clusdr
 <dependency>
   <groupId>io.clusdr</groupId>
   <artifactId>clusdr</artifactId>
-  <version>0.1.4</version>
+  <version>0.2.0</version>
 </dependency>
 ```
