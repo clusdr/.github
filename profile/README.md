@@ -76,3 +76,11 @@ pip install clusdr
 cargo add clusdr
 npm install clusdr
 ```
+
+```xml
+<dependency>
+  <groupId>io.clusdr</groupId>
+  <artifactId>clusdr</artifactId>
+  <version>0.1.4</version>
+</dependency>
+```
